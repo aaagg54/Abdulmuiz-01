@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaagg54
+- 👋 Hi, I'm Abdulmuizz 
 - 👀 I’m interested in front end development 
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on full stack development 
